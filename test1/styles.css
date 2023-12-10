@@ -78,11 +78,11 @@ div {
 }
 
 .table-heading {
-  background-color: #808000;
+  background-color: #800080;
 }
 
 .image-heading {
-  background-color: #00808b;
+  background-color: #8b0000;
 }
 
 @media (min-width: 992px) {
