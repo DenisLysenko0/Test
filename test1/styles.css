@@ -70,19 +70,19 @@ div {
 }
 
 .text-heading {
-  background-color: #00008b;
+  background-color: #F0E68C;
 }
 
 .list-heading {
-  background-color: #ff8c00;
-}
+  background-color: #FFB6C1; 
+} 
 
 .table-heading {
-  background-color: #800080;
+  background-color: #9ACD32; /* 00008b(1)  abo 800080(3)  ff8c00(2)*  abo 8b0000(4)*/
 }
 
 .image-heading {
-  background-color: #8b0000;
+  background-color: #4682B4;  
 }
 
 @media (min-width: 992px) {
